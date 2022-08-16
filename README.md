@@ -1,4 +1,4 @@
-### Hey there 🙌 I'm Athar M El-Haidary 👸
+### Hey there... I'm Athar M El-Haidary 👸
 
 <!--
 **asar17/asar17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -5,4 +5,4 @@
 
 Here are some ideas to get you started: 
  
---> Obtain a challenging position in Front-end Developer 🥰, using my skills and knowledge 💬, with the best manner, positive attitude and always eager to learn more 💪
+--> Obtain a challenging position in Front-end Development 🥰, using my skills and knowledge 💬, with the best manner, positive attitude and always eager to learn more 💪

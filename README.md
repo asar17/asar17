@@ -5,4 +5,4 @@
 
 Here are some ideas to get you started: 
  
---> Obtain a challenging position in Front-end Development 🥰, using my skills and knowledge 💬, with the best manner, positive attitude and always eager to learn more 💪
+--> Bachelor's degree of Computer and Information Sciences, Bioinformatics Department, Mansoura University. I'm ambitious, hard working, determined, strong willed. And I will do anything to achieve my dreams. Obtain a challenging position in Front-end Development 🥰, using my skills and knowledge 💬, with the best manner, positive attitude and always eager to learn more 💪

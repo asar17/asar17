@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 <a href="https://www.w3schools.com/css/" align="left"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" height="48" width="50" ></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" align="left"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="48" width="50" ></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://sass-lang.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" height="48" width="50"></a> &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.facebook.com"><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Pug-Dark.svg"  height=“48px" width="50px"></a>
 <a href="https://tailwindcss.com/"><img src="https://camo.githubusercontent.com/5734d0669fe22ce04a1cb989a156cd32c379875f6bca56d5210c9432824856d9/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f7461696c77696e646373732f7461696c77696e646373732d69636f6e2e737667" height="48" width="50" ></a>
 <a href="https://gulpjs.com/"><img src="https://github.com/get-icon/geticon/raw/master/icons/gulp.svg" height="48" width="50" ></a>
 <a href="https://www.npmjs.com/"><img src="https://github.com/get-icon/geticon/raw/master/icons/npm.svg" height="48" width="50" ></a>
@@ -24,3 +23,4 @@ Here are some ideas to get you started:
 <a href="https://reactjs.org/"><img src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" height="48" width="50" ></a>
 <a href="https://redux.js.org/"><img src="https://github.com/get-icon/geticon/raw/master/icons/redux.svg" height="48" width="50" ></a>
 <a href="https://www.facebook.com"><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/StyledComponents.svg"  height="48px" width="50px"></a>
+<a href=""><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/PHP-Dark.svg"  height=“48px" width="50px" ></a

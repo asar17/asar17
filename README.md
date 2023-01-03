@@ -13,3 +13,4 @@ Here are some ideas to get you started:
 ### 💻Languages and Tools:<br/>
 [![HTML](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg)](https://www.w3.org/html/)
 [![CSS](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg)]((https://www.w3schools.com/css/))
+<a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" align="left" height="48" width="48" ></a

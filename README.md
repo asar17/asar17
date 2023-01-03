@@ -20,6 +20,5 @@ Here are some ideas to get you started:
 <a href="https://gulpjs.com/"><img src="https://github.com/get-icon/geticon/raw/master/icons/gulp.svg" height="48" width="50" ></a>
 <a href="https://www.npmjs.com/"><img src="https://github.com/get-icon/geticon/raw/master/icons/npm.svg" height="48" width="50" ></a>
 <a href="https://graphql.org/"><img src="https://camo.githubusercontent.com/07c382b68200c1a86d52d1682346e73e038b2f160c9afbc0af773fb3646882c8/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6772617068716c2f6772617068716c2d69636f6e2e737667" height="48" width="50" ></a>
-<a href="https://pugjs.org/api/getting-started.html"><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Pug-Dark.svg" height=“48" width="50"></a> &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://reactjs.org/"><img src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" height="48" width="50" ></a>
 <a href="https://redux.js.org/"><img src="https://github.com/get-icon/geticon/raw/master/icons/redux.svg" height="48" width="50" ></a>

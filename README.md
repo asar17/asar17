@@ -8,5 +8,5 @@ Here are some ideas to get you started:
 --> ReactJS Lover and Computer Science enthusiast. I'm definitely a visual person and frontend appeals to that. But I like backend sometimes too, because I’m at my happiest when I don't need to even open a browser. I also like dealing with data, API integration and SQL stored process. I keep track of libraries and tools that help me do a better job. I love to learn new things and skills and I also believe in learning more about new things every day, it fascinate me to explore and develop myself and with my surrounding.
 ### 💫About Me:
 <ins></ins>
-* 🎓I was graduated from: [Faculty of Computer & Information Sciences, Medical Informatics Department, Mansoura University](https://www.facebook.com/fcismans?mibextid=LQQJ4d)
+* 🎓I was graduated from: [Faculty of Computer & Information Sciences Mansoura University](https://www.facebook.com/fcismans?mibextid=LQQJ4d)
 * 🌱I'm currently learning (Next.js, React Testing)

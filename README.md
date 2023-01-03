@@ -9,4 +9,5 @@ Here are some ideas to get you started:
 ### 💫About Me:
 🎓Computer Science Student: @Faculty of Computer and Information Science Mansoura University
 
---> 🌱I'm currently learning (Next.js, React Testing)
+
+🌱I'm currently learning (Next.js, React Testing)

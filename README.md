@@ -32,3 +32,5 @@ Here are some ideas to get you started:
 ### 📨You Can Find Me In:<br/>
 * * *
 <a href="https://www.facebook.com"><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Twitter.svg"  height="48px" width="50px"></a>
+<a href="https://www.facebook.com"><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Instagram.svg"  height="48px" width="50px"></a>
+<a href="https://www.facebook.com"><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/LinkedIn.svg"  height="48px" width="50px"></a>

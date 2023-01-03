@@ -38,3 +38,4 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/athar-m-elhaidary-51a509232"><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/LinkedIn.svg"  height="48px" width="50px"></a>
 
 [![facebook](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Facebook.png (Facebook))][1]
+ ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) `#1589F0`

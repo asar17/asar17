@@ -12,3 +12,4 @@ Here are some ideas to get you started:
 * 🌱I'm currently learning (Next.js, React Testing Library)
 ### 💻Languages and Tools:<br/>
 [![HTML](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg)](https://www.w3.org/html/)
+[![CSS](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg)](https://www.w3schools.com/css/)

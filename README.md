@@ -1,4 +1,4 @@
-###<span style="color:gray">Hey there</span> , I'm Athar M ElHaidary 👩‍💻<hr/>
+### <span style="color:gray">Hey there</span> , I'm Athar M ElHaidary 👩‍💻<hr/>
 
 <!--
 **asar17/asar17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

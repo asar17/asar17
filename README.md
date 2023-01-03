@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 <a href="https://reactjs.org/"><img src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" height="48" width="50" ></a>
 <a href="https://redux.js.org/"><img src="https://github.com/get-icon/geticon/raw/master/icons/redux.svg" height="48" width="50" ></a>
 <a href="https://www.facebook.com"><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/StyledComponents.svg"  height="48px" width="50px"></a>
-<a href="https://www.facebook.com"><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/PHP-Dark.svg"  height=“48" width="50"></a>
+<a href="https://www.facebook.com"><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/PHP-Dark.svg"  height=“48px" width="50px"></a>

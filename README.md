@@ -30,12 +30,12 @@ Here are some ideas to get you started:
 
 
 ReactJS Lover and Computer Science enthusiast. I'm definitely a visual person and frontend appeals to that. But I like backend sometimes too, because I’m at my happiest when I don't need to even open a browser. I also like dealing with data, API integration and SQL stored process. I keep track of libraries and tools that help me do a better job. I love to learn new things and skills and I also believe in learning more about new things every day, it fascinate me to explore and develop myself and with my surrounding.
-<h1>💫About Me :</h1>
+## 💫About Me :
 
 * 🎓I was graduated from: [Faculty of Computer and Information Sciences Mansoura University](https://www.facebook.com/fcismans?mibextid=LQQJ4d)
 * 🌱I'm currently learning (Next.js, React Testing Library)
 
-## 💻Languages & Tools:
+## 💻Languages & Tools :
 
 <a href="https://www.w3.org/html/" align="left"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height="48" width="40" ></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.w3schools.com/css/" align="left"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" height="48" width="40" ></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -60,7 +60,7 @@ ReactJS Lover and Computer Science enthusiast. I'm definitely a visual person an
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=asar17&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asar17)](https://github.com/anuraghazra/github-readme-stats)
 
-<h1>📨Reach Me :</h1>
+## 📨You Can Find Me In :
 
 <a href="https://www.facebook.com/assar.elhaidary.5?mibextid=LQQJ4d"><img src="http://i.imgur.com/P3YfQoD.png"   height="48px" width="50px"></a>
 <a href="https://twitter.com/athar_elhaidary?s=21&t=XjJQ5-QGV83SN5wTh_A40g"><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Twitter.svg"  height="48px" width="70px"></a>

@@ -10,7 +10,7 @@ Here are some ideas to get you started:
   <img src="https://media1.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=6c09b9522f3c7033154ad039c9214a2bafeb2a9f729950dd&rid=giphy.gif&ct=g" height="120" width="120" style="border-radius:20px"/>
 </div>
 
-<div id="badges">
+<div id="badges" style="margin-left:50px">
   <a href="https://www.linkedin.com/in/athar-m-elhaidary-51a509232" >
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="85px"/>
   </a>

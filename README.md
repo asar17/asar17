@@ -53,6 +53,9 @@ AReactJS Lover and Computer Science enthusiast. I'm definitely a visual person a
 <a href="https://www.facebook.com"><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/NodeJS-Dark.svg"  height="48px" width="50px"></a>
 <a href="https://www.facebook.com"><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/MongoDB.svg"  height="48px" width="50px"></a>
 <a href="https://www.facebook.com"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Firebase-Dark.svg"  height="48px" width="50px"></a>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asar17)](https://github.com/anuraghazra/github-readme-stats
+
 ### 📨You Can Find Me In:<br/>
 * * * *
 <a href="https://www.facebook.com/assar.elhaidary.5?mibextid=LQQJ4d"><img src="http://i.imgur.com/P3YfQoD.png"   height="48px" width="50px"></a>

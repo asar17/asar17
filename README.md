@@ -7,7 +7,7 @@ Here are some ideas to get you started:
  
 --> 
 <div id="header" align="center">
-  <img src="https://media1.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=6c09b9522f3c7033154ad039c9214a2bafeb2a9f729950dd&rid=giphy.gif&ct=g" height="200" width="100"/>
+  <img src="https://media1.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=6c09b9522f3c7033154ad039c9214a2bafeb2a9f729950dd&rid=giphy.gif&ct=g" height="200" width="200"/>
 </div>
 
 <div id="badges">

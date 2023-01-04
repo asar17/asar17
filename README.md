@@ -21,6 +21,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge" height="20px" width="85px" />
   </a>
 </div>
+<img src="https://komarev.com/ghpvc/?username=asar17&style=flat-square&color=blue" alt=""/>
 
 ## `Hey there`<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Athar M ElHaidary
 

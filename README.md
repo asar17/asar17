@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 <div id="header" align="center">
 <img src="https://komarev.com/ghpvc/?username=asar17&style=flat-square&color=blue" alt=""/>
 </div>
+
 ## `Hey there`<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Athar M ElHaidary
 
 ReactJS Lover and Computer Science enthusiast. I'm definitely a visual person and frontend appeals to that. But I like backend sometimes too, because I’m at my happiest when I don't need to even open a browser. I also like dealing with data, API integration and SQL stored process. I keep track of libraries and tools that help me do a better job. I love to learn new things and skills and I also believe in learning more about new things every day, it fascinate me to explore and develop myself and with my surrounding.

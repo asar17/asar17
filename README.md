@@ -35,7 +35,7 @@ ReactJS Lover and Computer Science enthusiast. I'm definitely a visual person an
 * 🎓I was graduated from: [Faculty of Computer and Information Sciences Mansoura University](https://www.facebook.com/fcismans?mibextid=LQQJ4d)
 * 🌱I'm currently learning (Next.js, React Testing Library)
 
-💻<h1>Languages & Tools:</h1>
+<h1>💻Languages & Tools:</h1>
 
 <a href="https://www.w3.org/html/" align="left"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height="48" width="40" ></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.w3schools.com/css/" align="left"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" height="48" width="40" ></a>&nbsp;&nbsp;&nbsp;&nbsp;

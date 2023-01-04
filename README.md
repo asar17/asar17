@@ -14,10 +14,10 @@ Here are some ideas to get you started:
   <a href="your-linkedin-URL" >
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="85px"/>
   </a>
-  <a href="your-youtube-URL" >
+  <a href="https://youtube.com/@_AMH" >
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge" width="85px"/>
   </a>
-  <a href="your-twitter-URL" >
+  <a href="https://twitter.com/athar_elhaidary?s=21&t=OqzcssuO08UGqBXxKhy2_A" >
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge" width="85px" />
   </a>
 </div>

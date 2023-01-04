@@ -10,6 +10,19 @@ Here are some ideas to get you started:
   <img src="https://media1.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=6c09b9522f3c7033154ad039c9214a2bafeb2a9f729950dd&rid=giphy.gif&ct=g" width="100"/>
 </div>
 
+<div id="badges">
+  <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="your-youtube-URL">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+
+
 AReactJS Lover and Computer Science enthusiast. I'm definitely a visual person and frontend appeals to that. But I like backend sometimes too, because I’m at my happiest when I don't need to even open a browser. I also like dealing with data, API integration and SQL stored process. I keep track of libraries and tools that help me do a better job. I love to learn new things and skills and I also believe in learning more about new things every day, it fascinate me to explore and develop myself and with my surrounding.
 ### 💫About Me:<br/>
 * * *

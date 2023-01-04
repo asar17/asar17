@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 </div>
 
 
-## hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Athar M ElHaidary
+## Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Athar M ElHaidary
 
 ReactJS Lover and Computer Science enthusiast. I'm definitely a visual person and frontend appeals to that. But I like backend sometimes too, because I’m at my happiest when I don't need to even open a browser. I also like dealing with data, API integration and SQL stored process. I keep track of libraries and tools that help me do a better job. I love to learn new things and skills and I also believe in learning more about new things every day, it fascinate me to explore and develop myself and with my surrounding.
 ## 💫About Me :
@@ -31,7 +31,7 @@ ReactJS Lover and Computer Science enthusiast. I'm definitely a visual person an
 * 🎓I was graduated from: [Faculty of Computer and Information Sciences Mansoura University](https://www.facebook.com/fcismans?mibextid=LQQJ4d)
 * 🌱I'm currently learning (Next.js, React Testing Library)
 
-## 💻Languages & Tools :
+## 💻Languages and Tools :
 
 <a href="https://www.w3.org/html/" align="left"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height="48" width="40" ></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.w3schools.com/css/" align="left"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" height="48" width="40" ></a>&nbsp;&nbsp;&nbsp;&nbsp;

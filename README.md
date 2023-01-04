@@ -10,9 +10,9 @@ Here are some ideas to get you started:
   <img src="https://media4.giphy.com/media/zOvBKUUEERdNm/giphy.gif?cid=82a1493b4l0j5xbf08yfmqvs8jwc6qme300rm0r7ms2rlquz&rid=giphy.gif&ct=g" height="120" width="120" style="border-radius:50%">
 </div>
 
-<div id="badges" style="margin-left:50px">
+<div id="badges" >
   <a href="https://www.linkedin.com/in/athar-m-elhaidary-51a509232" >
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" height="70" width="85px"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" height="70px" width="85px"/>
   </a>
   <a href="https://youtube.com/@_AMH" >
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge" width="85px"/>

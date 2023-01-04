@@ -7,18 +7,18 @@ Here are some ideas to get you started:
  
 --> 
 <div id="header" align="center">
-  <img src="https://media1.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=6c09b9522f3c7033154ad039c9214a2bafeb2a9f729950dd&rid=giphy.gif&ct=g" height="150" width="150"/>
+  <img src="https://media1.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=6c09b9522f3c7033154ad039c9214a2bafeb2a9f729950dd&rid=giphy.gif&ct=g" height="120" width="120"/>
 </div>
 
 <div id="badges">
-  <a href="your-linkedin-URL" style="width:100px">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="50px"/>
+  <a href="your-linkedin-URL" >
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="80px"/>
   </a>
-  <a href="your-youtube-URL" style="width:100px">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge" width="50px"/>
+  <a href="your-youtube-URL" >
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge" width="80px"/>
   </a>
-  <a href="your-twitter-URL" style="width:100px">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge" width="50px" />
+  <a href="your-twitter-URL" >
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge" width="80px" />
   </a>
 </div>
 

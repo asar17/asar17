@@ -36,6 +36,7 @@ ReactJS Lover and Computer Science enthusiast. I'm definitely a visual person an
 * 🌱I'm currently learning (Next.js, React Testing Library)
 
 <h1>💻Languages & Tools :</h1>
+
 <a href="https://www.w3.org/html/" align="left"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height="48" width="40" ></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.w3schools.com/css/" align="left"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" height="48" width="40" ></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" align="left"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="48" width="50" ></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -54,12 +55,12 @@ ReactJS Lover and Computer Science enthusiast. I'm definitely a visual person an
 <a href="https://www.facebook.com"><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/MongoDB.svg"  height="48px" width="50px"></a>
 <a href="https://www.facebook.com"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Firebase-Dark.svg"  height="48px" width="50px"></a>
 
-:fire: <h1>My Stats :</h1>
+<h1>:fire: My Stats :</h1>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=asar17&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asar17)](https://github.com/anuraghazra/github-readme-stats)
 
-### 📨You Can Find Me In :<br/>
-* * * *
+<h1>📨You Can Find Me In :</h1>
+
 <a href="https://www.facebook.com/assar.elhaidary.5?mibextid=LQQJ4d"><img src="http://i.imgur.com/P3YfQoD.png"   height="48px" width="50px"></a>
 <a href="https://twitter.com/athar_elhaidary?s=21&t=XjJQ5-QGV83SN5wTh_A40g"><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Twitter.svg"  height="48px" width="70px"></a>
 <a href="https://instagram.com/athar_elhaidaryy?igshid=YmMyMTA2M2Y="><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Instagram.svg"  height="48px" width="75px"></a>

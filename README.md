@@ -30,8 +30,7 @@ Here are some ideas to get you started:
 
 
 ReactJS Lover and Computer Science enthusiast. I'm definitely a visual person and frontend appeals to that. But I like backend sometimes too, because I’m at my happiest when I don't need to even open a browser. I also like dealing with data, API integration and SQL stored process. I keep track of libraries and tools that help me do a better job. I love to learn new things and skills and I also believe in learning more about new things every day, it fascinate me to explore and develop myself and with my surrounding.
-💫<h3>About Me :</h3>
-
+💫<h1>About Me :</h1>
 * 🎓I was graduated from: [Faculty of Computer and Information Sciences Mansoura University](https://www.facebook.com/fcismans?mibextid=LQQJ4d)
 * 🌱I'm currently learning (Next.js, React Testing Library)
 ### 💻Languages and Tools :<br/>
@@ -54,8 +53,7 @@ ReactJS Lover and Computer Science enthusiast. I'm definitely a visual person an
 <a href="https://www.facebook.com"><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/MongoDB.svg"  height="48px" width="50px"></a>
 <a href="https://www.facebook.com"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Firebase-Dark.svg"  height="48px" width="50px"></a>
 
-### :fire: My Stats :
-* * *
+:fire: <h1>My Stats :</h1>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=asar17&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asar17)](https://github.com/anuraghazra/github-readme-stats)
 

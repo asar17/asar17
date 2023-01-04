@@ -11,13 +11,13 @@ Here are some ideas to get you started:
 </div>
 
 <div id="badges">
-  <a href="your-linkedin-URL" style="width:100">
+  <a href="your-linkedin-URL" style="width:100px">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="100"/>
   </a>
-  <a href="your-youtube-URL" style="width:100" >
+  <a href="your-youtube-URL" style="width:100px">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge" width="100"/>
   </a>
-  <a href="your-twitter-URL" style="width:100" >
+  <a href="your-twitter-URL" style="width:100px">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge" width="100" />
   </a>
 </div>

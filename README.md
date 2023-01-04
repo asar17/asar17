@@ -7,7 +7,7 @@ Here are some ideas to get you started:
  
 --> 
 <div id="header" align="center">
-  <img src="https://media1.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=6c09b9522f3c7033154ad039c9214a2bafeb2a9f729950dd&rid=giphy.gif&ct=g" height="120" width="120" style="border-radius:20px"/>
+  <img src="https://media4.giphy.com/media/zOvBKUUEERdNm/giphy.gif?cid=82a1493b4l0j5xbf08yfmqvs8jwc6qme300rm0r7ms2rlquz&rid=giphy.gif&ct=g" height="120" width="120" style="border-radius:20px"/>
 </div>
 
 <div id="badges" style="margin-left:50px">
@@ -30,7 +30,7 @@ ReactJS Lover and Computer Science enthusiast. I'm definitely a visual person an
 * 🎓I was graduated from: [Faculty of Computer and Information Sciences Mansoura University](https://www.facebook.com/fcismans?mibextid=LQQJ4d)
 * 🌱I'm currently learning (Next.js, React Testing Library)
 
-## 💻Languages & Tools:
+## 💻Languages & Tools :
 
 <a href="https://www.w3.org/html/" align="left"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height="48" width="40" ></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.w3schools.com/css/" align="left"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" height="48" width="40" ></a>&nbsp;&nbsp;&nbsp;&nbsp;

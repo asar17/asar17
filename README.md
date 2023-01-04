@@ -58,7 +58,7 @@ ReactJS Lover and Computer Science enthusiast. I'm definitely a visual person an
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=asar17&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asar17)](https://github.com/anuraghazra/github-readme-stats)
 
-## 📨You Can Find Me In :
+## 📨You Can Find Me On :
 
 <a href="https://www.facebook.com/assar.elhaidary.5?mibextid=LQQJ4d"><img src="http://i.imgur.com/P3YfQoD.png"   height="48px" width="50px"></a>
 <a href="https://twitter.com/athar_elhaidary?s=21&t=XjJQ5-QGV83SN5wTh_A40g"><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Twitter.svg"  height="48px" width="70px"></a>

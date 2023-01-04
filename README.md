@@ -12,13 +12,13 @@ Here are some ideas to get you started:
 
 <div id="badges" style="margin-left:50px">
   <a href="https://www.linkedin.com/in/athar-m-elhaidary-51a509232" >
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="85px"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="75px"/>
   </a>
   <a href="https://youtube.com/@_AMH" >
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge" width="85px"/>
   </a>
   <a href="https://twitter.com/athar_elhaidary?s=21&t=OqzcssuO08UGqBXxKhy2_A" >
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge" width="85px" />
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge" width="90px" />
   </a>
 </div>
 

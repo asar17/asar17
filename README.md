@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 
 <div id="badges" style="margin-left:50px">
   <a href="https://www.linkedin.com/in/athar-m-elhaidary-51a509232" >
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="75px"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="80px"/>
   </a>
   <a href="https://youtube.com/@_AMH" >
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge" width="85px"/>

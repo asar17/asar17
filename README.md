@@ -31,7 +31,7 @@ ReactJS Lover and Computer Science enthusiast. I'm definitely a visual person an
 ## 💫About Me :
 
 * 🎓I was graduated from: [Faculty of Computer and Information Sciences Mansoura University](https://www.facebook.com/fcismans?mibextid=LQQJ4d)
-* 🌱I'm currently learning (Next.js, React Testing Library)
+* 🌱I'm currently learning (Next.js, React Query, React Testing Library)
 
 ## 💻Languages & Tools :
 

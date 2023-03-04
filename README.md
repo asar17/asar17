@@ -59,10 +59,11 @@ ReactJS Lover and Computer Science enthusiast. I'm definitely a visual person an
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asar17)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📨You Can Find Me On :
-
+<div align="center">
 <a href="https://www.facebook.com/assar.elhaidary.5?mibextid=LQQJ4d"><img src="http://i.imgur.com/P3YfQoD.png"   height="48px" width="50px"></a>
 <a href="https://twitter.com/AtharElHaidary?s=21&t=XjJQ5-QGV83SN5wTh_A40g"><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Twitter.svg"  height="48px" width="70px"></a>
 <a href="https://instagram.com/athar_elhaidaryy?igshid=YmMyMTA2M2Y="><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Instagram.svg"  height="48px" width="75px"></a>
 <a href="https://www.linkedin.com/in/athar-m-elhaidary-51a509232"><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/LinkedIn.svg"  height="48px" width="65px"></a>
+</div>
 
 
